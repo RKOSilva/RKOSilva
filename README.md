@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Robson 👋</h1>
 
-<!--
-**RKOSilva/RKOSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor Java em formação • Backend • APIs REST • Node.js • JavaScript
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+Sou um desenvolvedor em constante evolução, com foco em backend. Atualmente estou me aprofundando em Java com o curso do professor Nélio Alves e também estudando JavaScript e Node.js. Tenho experiência prática em criação de APIs REST, autenticação com JWT e desenvolvimento de sistemas como o de Ordem de Serviço (OS).
+
+Estou sempre em busca de boas práticas, código limpo e soluções que agreguem valor real.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+- Java • Spring
+- Node.js • Express
+- JavaScript
+- MongoDB • Mongoose
+- Git • GitHub
+- Insomnia • Postman
+- Visual Studio Code • IntelliJ
+
+---
+
+### 📌 Projetos em destaque
+
+🔧 [Sistema de Ordem de Serviço (OS)](https://github.com/RKOSilva/ProjetoOS)   
+🌱 [Mais projetos em breve...]
+
+---
+
+### 📚 Atualmente estudando
+
+- Java Avançado (Curso do Nélio Alves - Udemy)
+- JavaScript moderno (Luiz Otávio Miranda - Udemy)
+- Padrões de Projeto, SOLID, TDD (em breve)
+
+---
+
+### 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/robson-silva-a7b34a213/)
+- E-mail: kaco654341@outlook.com
+- GitHub: [@RKOSilva](https://github.com/RKOSilva)
+
+---
+
+> “Grandes jornadas começam com pequenos commits.” 🚀
