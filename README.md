@@ -27,9 +27,8 @@ Estou sempre em busca de boas práticas, código limpo e soluções que agreguem
 ---
 
 ### 📌 Projetos em destaque
-
-🔧 [Sistema de Ordem de Serviço (OS)](https://github.com/RKOSilva/ProjetoOS)   
-🌱 [Mais projetos em breve...]
+ 
+🌱 [Projetos em breve...]
 
 ---
 
