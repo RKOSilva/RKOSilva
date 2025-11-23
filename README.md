@@ -34,9 +34,9 @@ Estou sempre em busca de boas práticas, código limpo e soluções que agreguem
 
 ### 📚 Atualmente estudando
 
+- Gestão da Tecnologia da Informação - UNIP
 - Java Avançado (Curso do Nélio Alves - Udemy)
 - JavaScript moderno (Luiz Otávio Miranda - Udemy)
-- Padrões de Projeto, SOLID, TDD (em breve)
 
 ---
 
